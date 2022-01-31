@@ -10,3 +10,4 @@ dependencies:
   - scipy
   - psycopg2
   - ipython-sql
+  - pgspecial
