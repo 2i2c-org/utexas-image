@@ -9,3 +9,4 @@ dependencies:
   - numpy
   - scipy
   - psycopg2
+  - ipython-sql
