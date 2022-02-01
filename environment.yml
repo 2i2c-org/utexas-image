@@ -11,3 +11,7 @@ dependencies:
   - psycopg2
   - ipython-sql
   - pgspecial
+  # https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925
+  - xeus-sql
+  - soci-postgresql
+  - soci-sqlite
