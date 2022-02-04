@@ -5,6 +5,7 @@ channels:
 
 dependencies:
   - jupyter_contrib_nbextensions==0.5.1
+  - jupyter-server-proxy
   # Add other packages here
   - numpy
   - scipy
