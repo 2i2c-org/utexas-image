@@ -16,7 +16,3 @@ dependencies:
   - xeus-sql
   - soci-postgresql
   - soci-sqlite
-
-  - pip
-  - pip:
-    - jupyterlab-sql
