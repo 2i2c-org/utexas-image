@@ -16,3 +16,5 @@ dependencies:
   - xeus-sql
   - soci-postgresql
   - soci-sqlite
+  - pip:
+    - nbgitpuller  # nbgitpuller on conda-forge seems to be outdated so use pip
