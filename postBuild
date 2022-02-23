@@ -1,0 +1,5 @@
+#!/bin/bash
+set -euo pipefail
+
+# Enable limit_output classic notebook extension so huge tables don't crash browser
+jupyter nbextension enable --sys-prefix limit_output/main
