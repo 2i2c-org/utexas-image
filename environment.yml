@@ -13,7 +13,7 @@ dependencies:
   - ipython-sql
   - pgspecial
   # https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925
-  - xeus-sql
+  - xeus-sql>=0.1.5
   - soci-postgresql
   - soci-sqlite
   - pip:
