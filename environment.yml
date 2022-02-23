@@ -16,6 +16,6 @@ dependencies:
   - xeus-sql
   - soci-postgresql
   - soci-sqlite
-  - jupyterlab-limit-output
+  - jupyterlab_limit_output
   - pip:
     - nbgitpuller  # nbgitpuller on conda-forge seems to be outdated so use pip
