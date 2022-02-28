@@ -20,3 +20,4 @@ dependencies:
   - pip:
     - nbgitpuller  # nbgitpuller on conda-forge seems to be outdated so use pip
     - jupyterlab-limit-output
+    - nbstripoutput
