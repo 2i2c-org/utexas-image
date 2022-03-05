@@ -5,19 +5,19 @@ channels:
 
 dependencies:
   - jupyter_contrib_nbextensions==0.5.1
-  - jupyter-server-proxy
-  - retrolab
-  # Add other packages here
-  - numpy
-  - scipy
-  - psycopg2
-  - ipython-sql
-  - pgspecial
-  # https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925
-  - xeus-sql=0.1.5
-  - soci-postgresql
-  - soci-sqlite
-  - pip:
-    - nbgitpuller  # nbgitpuller on conda-forge seems to be outdated so use pip
-    - jupyterlab-limit-output
-    - nbstripout
+  # - jupyter-server-proxy
+  # - retrolab
+  # # Add other packages here
+  # - numpy
+  # - scipy
+  # - psycopg2
+  # - ipython-sql
+  # - pgspecial
+  # # https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925
+  # - xeus-sql=0.1.5
+  # - soci-postgresql
+  # - soci-sqlite
+  # - pip:
+  #   - nbgitpuller  # nbgitpuller on conda-forge seems to be outdated so use pip
+  #   - jupyterlab-limit-output
+  #   - nbstripout
