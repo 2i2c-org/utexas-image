@@ -22,7 +22,7 @@ jobs:
       uses: actions/checkout@main
 
     - name: update jupyter dependencies with repo2docker
-      uses: yuvipanda/repo2docker-action@image-tests
+      uses: yuvipanda/repo2docker-action@python
       with: # make sure username & password/token matches your registry
         NO_PUSH: "true"
         DOCKER_REGISTRY: "quay.io"
