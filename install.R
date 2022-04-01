@@ -1,8 +1,7 @@
-tidyverse
-lubridate
-here
-markdown
-rmarkdown
-kableExtra
-glue
-reprex
+install.packages("tidyverse")
+install.packages("lubridate")
+install.packages("here")
+install.packages("markdown")
+install.packages("rmarkdown")
+install.packages("kableExtra")
+install.packages("glue")
