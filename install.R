@@ -5,3 +5,4 @@ markdown
 rmarkdown
 kableExtra
 glue
+reprex
