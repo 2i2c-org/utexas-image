@@ -5,6 +5,7 @@ channels:
 
 dependencies:
   - jupyter_contrib_nbextensions==0.5.1
+  - notebook>=6.4 # brings in https://github.com/jupyter/notebook/pull/6221
   - jupyter-server-proxy
   - retrolab
   # Add other packages here
