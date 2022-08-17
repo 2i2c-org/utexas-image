@@ -9,6 +9,7 @@ dependencies:
   - jupyter-server-proxy
   - retrolab
   # Add other packages here
+  - python>=3.9
   - numpy
   - scipy
   - psycopg2
